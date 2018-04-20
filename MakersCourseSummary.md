@@ -22,6 +22,13 @@ Colaborated with Atty and Ben
 
 ### Weekend Challenges
 * Week 1: Airport Challenge
+  * **Airport Challenge**  
+An airport controller which can land and take off planes depending on random weather  
+Repository: https://github.com/philb56/airport_challenge  
+Technology: Ruby, rspec  
+Linting: rubocop  
+Test coverage: simplecov  
+Worked Solo  
 * Week 2: Takeaway Challenge
 * Week 3: RPS Challenge
 * Week 4: Chitter Challenge
